@@ -1,0 +1,136 @@
+{   
+    
+    "sections":[
+        { 
+            "header": "Education",
+            "icon": "fas fa-graduation-cap",
+            "readmore":"Read More",
+            "items": [
+                {   
+                    "picture":"./images/nology.jpg",
+                    "subtitle":"Tech Conversion Course",
+                    "dates":"Oct 2019 - Jan 2019",
+                    "description": "Using HTML5, CSS and javascript on real projects while working in an agile environment."
+                    },
+        
+                {   
+                    
+                    "subtitle":"Bsc Mathematics and Economics",
+                    "dates":"2014 - 2017",
+                    "description": ""},
+        
+                {   
+                    
+                    "subtitle":"A-levels",
+                    "dates":"2007 - 2014",
+                    "description": "A*AA- Mathematics, Economics and Chemistry"}
+            ]
+            },
+
+            { "header" : " Achievements",
+                "icon":"fas fa-trophy",
+    
+                "items": [
+                    {   
+                        "subtitle":"Art Award",
+                        "dates":"2004",
+                        "description": "Won the yearly art award in my final year of GCSE for being the first student to achieve A* A*."},
+                    
+                    {   
+                        "subtitle":"Chemistry Award",
+                        "dates":"2014",
+                        "description": "Won the yearly chemistry award in my final year."},
+            
+                    {   
+                        "subtitle":"Maths Challenge",
+                            "dates":"2013",
+                            "description": "Achieved the best in school."}
+                    ]
+                },
+    
+
+       
+        
+        { 
+            "header": "Work Experience",
+            "icon":"fas fa-briefcase",
+            "items": [
+                {  
+                     "subtitle":"Nationwide Software Developer",
+                    "dates":"Sept 2018 - Present",
+                    "description": "Currently working as a software developer in training."},
+            
+                {   
+                    "subtitle":"Deloitte PMO Administrator",
+                    "dates":"Sept 2017 - Sept 2018",
+                    "description": "As PMO I would work with the MI, Change and Quality teams to achieve weekly targets"}
+        ]},
+
+        
+        {"header" : " Volunteering",
+            "icon":"fas fa-hands-helping",
+            "items": [ 
+                {  
+                     "subtitle":"Richmond charity run ",
+                "dates":"2016 - 2017",
+                "description": "Ran 10k twice in two years raising a total of £400."},
+            
+            {   
+                "subtitle":"Tutor",
+                "dates":"Sept 2013 - Jan 2014",
+                "description": "Helped children with learning disabilities with their english skills."}
+        ]},
+
+    
+        { 
+            "header": "Hobbies",
+            "icon": "fas fa-palette",
+            "items": [
+            {   
+                "subtitle":"Drawing",
+                "dates":"Always",
+                "description": "I've always been drawing, its one of my favourite hobbies."},
+            
+            {   
+                "subtitle":"Learning guitar",
+                "dates":"2018 - Present",
+                "description": "Recently picking up a guitar for the first time and having fun."},
+            
+            {   
+                "subtitle":"Spending time with my doggo",
+                "dates":"2017 - Present",
+                "description": "Having fun taking her to the park and chasing after birds"}
+        ]},
+
+   
+
+
+
+        {"header" : " Skills",
+            "icon":"fas fa-laptop",
+        "items": [
+            {   
+                "subtitle":"HTML",
+                "rating": "4",
+                "description": "Comfortable using basic mark up to create a basic website."},
+            
+            {   
+                "subtitle":"CSS",
+                "rating": "4",
+                "description": "Understanding of basic CSS concepts and some intermediate methods including Flexbox."},
+            
+            {   
+                "subtitle":"JS",
+                "rating": "3",
+                "description": "Comfortable using objects and functions."}
+        ]}
+
+       
+
+        
+        
+        
+        
+
+    ]
+}

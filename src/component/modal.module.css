@@ -1,0 +1,22 @@
+.bg{
+    background-color: rgba(0,0,0,0.8);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 10000;
+}
+
+.modalBox {
+    border: 5px solid rgb(157,224,180);
+    border-radius: 10px;
+    height: auto;
+    background-color: white;
+    width: auto;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+
+}
